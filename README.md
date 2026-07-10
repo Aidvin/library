@@ -10,6 +10,9 @@
 - [Navidrome server-side](https://www.navidrome.org/) | free self-hosted Spotify alternative
     - [Arpeggi](https://apps.apple.com/us/app/arpeggi/id6503619183) | IOS Navidrome player
     - [Feishin](https://github.com/jeffvli/feishin) | Windows Navidrome player
+ ### Tools
+    - puddletag
+    - sounder convertor
  ### Books
  - [Kavita](https://www.kavitareader.com/) free Self-hosted digital book library
 ### Games
