@@ -43,7 +43,8 @@
 - [fre:ac](https://www.freac.org/) Audio encoder Windows GUI
 - [Handbrake](https://handbrake.fr) Video encoder Windows GUI
 ### Media player
-- [VLC](https://www.videolan.org/) Everything media player
+- [VLC](https://www.videolan.org/) Everything media player (Linux) (WIndows) (Android)
+- [MPV](https://mpv.io/) Media player (Linux) (WIndows) (Android)
 ### AI
 - [Ollama](https://ollama.com/) Self-hosted AI solution
 ## OS
