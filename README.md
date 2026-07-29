@@ -1,4 +1,4 @@
-# My Software Collection
+# A Software Collection
 ## Online Media Streaming
 ### Video
 - [Jellyfin server-side](https://jellyfin.org/) | free self-hosted Netflix/Crunchryoll alternative
@@ -35,18 +35,20 @@
 - [FreeFileSync](https://freefilesync.org/) | file data backup, file & folder synchronize (Windows)
 ## Tools
 ### Browser
-- [Zen Browser](https://zen-browser.app/) clean, privacy-focused 
-- [Brave](https://brave.com/)  adblocker
+- [Zen Browser](https://zen-browser.app/) clean, privacy-focused (Linux) (Windows)
+- [Brave](https://brave.com/)  adblocker (Linux) (Windows)
+- [Win11-debloat-tool](https://github.com/raphire/win11debloat) Windows 11 debloat tool 
 ### Compression
 - [XnConvert](https://www.xnview.com/en/xnconvert/#downloads) Image compression Windows GUI
 - [PeaZip](https://peazip.github.io/) PAQ, LPAQ, ZPAQ file compression Windows GUI
-- [fre:ac](https://www.freac.org/) Audio encoder Windows GUI
-- [Handbrake](https://handbrake.fr) Video encoder Windows GUI
+- [fre:ac](https://www.freac.org/) Audio encoder GUI (Windows)
+- [Handbrake](https://handbrake.fr) Video encoder GUI (Linux) (Windows)
 ### Media player
 - [VLC](https://www.videolan.org/) Everything media player (Linux) (WIndows) (Android)
 - [MPV](https://mpv.io/) Media player (Linux) (WIndows) (Android)
 ### AI
-- [Ollama](https://ollama.com/) Self-hosted AI solution
+- [Ollama](https://ollama.com/) Self-hosted AI solution (Windows) (Linux)
+- [Open-web-ui](https://github.com/open-webui/open-webui) LLM web frontend 
 ## OS
-- [TrueNAS](https://www.truenas.com/) Desktop NAS solution
-- [Termux](https://f-droid.org/en/packages/com.termux/) Terminal emulation for android
+- [TrueNAS](https://www.truenas.com/) Desktop NAS solution (x86-64)
+- [Termux](https://f-droid.org/en/packages/com.termux/) Terminal emulation for android (ARM)
