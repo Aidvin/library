@@ -2,10 +2,10 @@
 ## Online Media Streaming
 ### Video
 - [Jellyfin server-side](https://jellyfin.org/) | free self-hosted Netflix/Crunchryoll alternative
-    - [Swiftfin client-side](https://apps.apple.com/us/app/swiftfin/id1604098728) | IOS Jellyfin player
-    - [Wolphin](https://play.google.com/store/apps/details?id=com.github.damontecres.wholphin) | Android TV Jellyfin player
-    - [Jellyfin](https://play.google.com/store/apps/details?id=org.jellyfin.mobile&pcampaignid=web_share) | Official android Jellyfin player
-    - [Jellyfin](https://github.com/jellyfin-archive/jellyfin-desktop-qt/releases) | Official desktop Jellyfin player
+    - [Swiftfin client-side](https://apps.apple.com/us/app/swiftfin/id1604098728) | Jellyfin player (IOS)
+    - [Wolphin](https://play.google.com/store/apps/details?id=com.github.damontecres.wholphin) | Jellyfin player (Android TV)
+    - [Findroid](https://github.com/jarnedemeulemeester/findroid) | Jellyfin player (Android)
+    - [Jellyfin](https://github.com/jellyfin-archive/jellyfin-desktop-qt/releases) | desktop Jellyfin player (Windows) (Linux)
 ### Music
 - [Navidrome server-side](https://www.navidrome.org/) | free self-hosted Spotify alternative
     - [Arpeggi](https://apps.apple.com/us/app/arpeggi/id6503619183) | IOS Navidrome player
