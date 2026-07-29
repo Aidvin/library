@@ -35,7 +35,7 @@
 ## Tools
 ### Browser
 - [Zen Browser](https://zen-browser.app/) clean, privacy-focused 
-- [Brave](https://brave.com/)  adblocker, Youtube Premium alternative
+- [Brave](https://brave.com/)  adblocker
 ### Compression
 - [XnConvert](https://www.xnview.com/en/xnconvert/#downloads) Image compression Windows GUI
 - [PeaZip](https://peazip.github.io/) PAQ, LPAQ, ZPAQ file compression Windows GUI
