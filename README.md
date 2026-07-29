@@ -8,8 +8,9 @@
     - [Jellyfin](https://github.com/jellyfin-archive/jellyfin-desktop-qt/releases) | desktop Jellyfin player (Windows) (Linux)
 ### Music
 - [Navidrome server-side](https://www.navidrome.org/) | free self-hosted Spotify alternative
-    - [Arpeggi](https://apps.apple.com/us/app/arpeggi/id6503619183) | IOS Navidrome player
-    - [Feishin](https://github.com/jeffvli/feishin) | Windows Navidrome player
+    - [Arpeggi](https://apps.apple.com/us/app/arpeggi/id6503619183) | Navidrome music player (IOS)
+    - [Feishin](https://github.com/jeffvli/feishin) | Navidrome music player (Windows) (Feishin)
+    - [Navic](https://github.com/ssalggnikool/Navic) | Navidrome music player (Android) (IOS)
 ### Tools
  - [puddletag](https://docs.puddletag.net/download.html) Music tags editor (Linux)
  - [sounder convertor](https://flathub.org/en/apps/org.soundconverter.SoundConverter) Audio Encoder/decoder (Linux)
@@ -21,7 +22,7 @@
       - [Firmware](http://deu01.ps3.update.playstation.net/update/ps3/image/eu/2026_0318_a2b60b6ac1d2e49e230144345616927c/PS3UPDAT.PUP)
  - 
 ## Networking 
-- [OpenVPN](https://openvpn.net/) free VPN solution
+- [OpenVPN](https://openvpn.net/) free VPN solution (IOS) (Android) (Windows) (Linux)
     - [List 1](https://github.com/9xN/auto-ovpn) .ovpn to use with OpenVPN
     - [List 2](https://github.com/Zoult/.ovpn) .opvn to use with OpenVPN
     - [List 3](https://github.com/mmpx12/proxy-list/blob/master/vpn.md) .opvn to use wwith OpenVPN
