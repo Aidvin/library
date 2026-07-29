@@ -31,8 +31,8 @@
 ## Productivity 
 - [LibreOffice](https://www.libreoffice.org/) | free Microsoft 365 alternative
 ## Storage
-- [Immich](https://immich.app/) | free self-hosted Google photos alternative
-- [FreeFileSync](https://freefilesync.org/) | file data backup, file & folder synchronize
+- [Immich](https://immich.app/) | free self-hosted Google photos alternative (Android) (IOS) (Windows) (Linux)
+- [FreeFileSync](https://freefilesync.org/) | file data backup, file & folder synchronize (Windows)
 ## Tools
 ### Browser
 - [Zen Browser](https://zen-browser.app/) clean, privacy-focused 
